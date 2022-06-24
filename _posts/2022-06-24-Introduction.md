@@ -1,1 +1,4 @@
-This is a test post. Hi y'all.
+---
+title: "Introduction post"
+date: 2022-06-24
+---
